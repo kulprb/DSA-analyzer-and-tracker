@@ -22,8 +22,6 @@
 
 #### the Analyzer doesn't guarantee a job but guarantees your confidence in solving any coding problem if done in the right way 👍🏻.
 
-#### More details on how _[DSA Analyzer &  Tracker]_ can help you -> _[Here]_.
-
 ## Dependencies 🗃
 
 - _[React]_ - **Frontend Framework**
