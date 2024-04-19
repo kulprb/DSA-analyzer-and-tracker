@@ -44,7 +44,7 @@ https://a2zdsa.pages.dev/
 
 <h2 align="center">PRABAL JAIN</h2>
 <p align="center">
-  <a href="https://github.com/aditya-190"><img src="https://avatars.githubusercontent.com/u/63164037?v=4" width=150px height=150px  alt="Aditya Bhardwaj"/></a> 
+  <a href="https://github.com/aditya-190"><img src="https://media.licdn.com/dms/image/D5603AQEQ11B4MSAm6Q/profile-displayphoto-shrink_100_100/0/1683020533177?e=1718841600&v=beta&t=MNPI8ITi9XXjcHMhvRurP1jqpPtDRg1WVncObHYdHhM" width=150px height=150px  alt="Aditya Bhardwaj"/></a> 
 
 <p align="center">
   <a target="_blank" href="https://www.linkedin.com/feed/?doFeedRefresh=true&nis=true&lipi=urn%3Ali%3Apage%3Ad_flagship3_feed%3BF%2BvvcwmLTdOP92jgNtRPRw%3D%3D"><img src="https://media.licdn.com/dms/image/D5603AQEQ11B4MSAm6Q/profile-displayphoto-shrink_100_100/0/1683020533177?e=1718841600&v=beta&t=MNPI8ITi9XXjcHMhvRurP1jqpPtDRg1WVncObHYdHhM alt="prabal jain"/></a>&nbsp;&nbsp;&nbsp;
