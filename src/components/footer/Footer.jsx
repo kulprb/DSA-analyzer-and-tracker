@@ -4,7 +4,7 @@ const Footer = () => {
     const originalDsaSheetLink =
         'https://takeuforward.org/strivers-a2z-dsa-course/strivers-a2z-dsa-course-sheet-2/'
     const originalAuthorLinkedInLink = 'https://in.linkedin.com/in/rajarvp'
-    const gitHubLink = 'https://github.com/kulprb/DSA-analyzer-and-tracker'
+    const gitHubLink = 'https://dsa-analyzer-and-tracker.vercel.app/'
 
     return (
         <Flex
