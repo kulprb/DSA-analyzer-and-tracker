@@ -19,7 +19,7 @@ const Ads = ({ data }) => {
                 fontWeight={'md'}
                 color={isDarkMode ? 'defaultColor_dark' : 'defaultColor'}
             >
-                Ads Goes Here...
+               const ads=' https://stake.com/'
             </Text>
         </Flex>
     )
