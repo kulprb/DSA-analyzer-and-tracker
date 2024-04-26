@@ -5,7 +5,6 @@
 
 ## Overview 👀
 
-![cover](https://user-images.githubusercontent.com/63164037/194750460-b42c8096-dbc9-43c0-aaa0-5e581b357c4a.png)
 
 - **Topic wise question search 🔍**
 - **Random question picker😉**
