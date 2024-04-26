@@ -43,13 +43,27 @@ https://dsa-analyzer-and-tracker.vercel.app/
 
 <h2 align="center">PRABAL JAIN</h2>
 <p align="center">
-  <a href="https://github.com/aditya-190"><img src="https://media.licdn.com/dms/image/D5603AQEQ11B4MSAm6Q/profile-displayphoto-shrink_100_100/0/1683020533177?e=1718841600&v=beta&t=MNPI8ITi9XXjcHMhvRurP1jqpPtDRg1WVncObHYdHhM" width=150px height=150px  alt="Aditya Bhardwaj"/></a> 
+  <a href="https://github.com/kulprb"><img src="https://media.licdn.com/dms/image/D5603AQEQ11B4MSAm6Q/profile-displayphoto-shrink_100_100/0/1683020533177?e=1718841600&v=beta&t=MNPI8ITi9XXjcHMhvRurP1jqpPtDRg1WVncObHYdHhM" width=150px height=150px  alt="Aditya Bhardwaj"/></a> 
 
 <p align="center">
   <a target="_blank" href="https://www.linkedin.com/feed/?doFeedRefresh=true&nis=true&lipi=urn%3Ali%3Apage%3Ad_flagship3_feed%3BF%2BvvcwmLTdOP92jgNtRPRw%3D%3D"><img src="https://media.licdn.com/dms/image/D5603AQEQ11B4MSAm6Q/profile-displayphoto-shrink_100_100/0/1683020533177?e=1718841600&v=beta&t=MNPI8ITi9XXjcHMhvRurP1jqpPtDRg1WVncObHYdHhM alt="prabal jain"/></a>&nbsp;&nbsp;&nbsp;
   <a href="mailto:10prabal@gmail.com?subject=Hello%20Aditya,%20From%20Github"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white"  alt="Prabal jain"/></a>
 </p>
+<h2 align="center">VISHNU PATEL</h2>
+<p align="center">
+  <a href="https://github.com/kulprb"><img src="https://www.linkedin.com/in/vishnu-patel-535961205?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" width=150px height=150px  alt="Aditya Bhardwaj"/></a> 
 
+<p align="center">
+  <a target="_blank" href="https://www.linkedin.com/feed/?doFeedRefresh=true&nis=true&lipi=urn%3Ali%3Apage%3Ad_flagship3_feed%3BF%2BvvcwmLTdOP92jgNtRPRw%3D%3D"><img src="https://media.licdn.com/dms/image/D5603AQEQ11B4MSAm6Q/profile-displayphoto-shrink_100_100/0/1683020533177?e=1718841600&v=beta&t=MNPI8ITi9XXjcHMhvRurP1jqpPtDRg1WVncObHYdHhM alt="prabal jain"/></a>&nbsp;&nbsp;&nbsp;
+  <a href="mailto:10prabal@gmail.com?subject=Hello%20Aditya,%20From%20Github"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white"  alt="Prabal jain"/></a>
+</p><h2 align="center">PRABAL JAIN</h2>
+<p align="center">
+  <a href="https://github.com/kulprb"><img src="https://media.licdn.com/dms/image/D5603AQEQ11B4MSAm6Q/profile-displayphoto-shrink_100_100/0/1683020533177?e=1718841600&v=beta&t=MNPI8ITi9XXjcHMhvRurP1jqpPtDRg1WVncObHYdHhM" width=150px height=150px  alt="Aditya Bhardwaj"/></a> 
+
+<p align="center">
+  <a target="_blank" href="https://www.linkedin.com/feed/?doFeedRefresh=true&nis=true&lipi=urn%3Ali%3Apage%3Ad_flagship3_feed%3BF%2BvvcwmLTdOP92jgNtRPRw%3D%3D"><img src="https://media.licdn.com/dms/image/D5603AQEQ11B4MSAm6Q/profile-displayphoto-shrink_100_100/0/1683020533177?e=1718841600&v=beta&t=MNPI8ITi9XXjcHMhvRurP1jqpPtDRg1WVncObHYdHhM alt="prabal jain"/></a>&nbsp;&nbsp;&nbsp;
+  <a href="mailto:10prabal@gmail.com?subject=Hello%20Aditya,%20From%20Github"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white"  alt="Prabal jain"/></a>
+</p>
 
 [striver]: https://in.linkedin.com/in/rajarvp
 [a2z dsa cracker sheet]: https://takeuforward.org/strivers-a2z-dsa-course/strivers-a2z-dsa-course-sheet-2/
