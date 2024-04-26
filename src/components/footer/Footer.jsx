@@ -1,11 +1,11 @@
 import { Flex, Link, Text } from '@chakra-ui/react'
 
 const Footer = () => {
-    const originalDsaSheetLink ='https://dsa-analyzer-and-tracker.vercel.app/'
+    const originalDsaSheetLink ='https://github.com/kulprb/DSA-analyzer-and-tracker.git'
     const originalAuthorLinkedInLink = "https://www.linkedin.com/in/vishnu-patel-535961205?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app"
     const originalAuthorLinkedInLink = "https://www.linkedin.com/in/arnav-seth-902a2626a?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app"
     const originalAuthorLinkedInLink = "https://www.linkedin.com/in/prabal-jain-579ab8179/overlay/about-this-profile/?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base%3BJKRaq2fwS5KKa0fkVJUFLA%3D%3D"   
-    const gitHubLink = 'https://github.com/kulprb/DSA-analyzer-and-tracker.git'
+    const gitHubLink = 'https://dsa-analyzer-and-tracker.vercel.app/'
 
     return (
         <Flex
