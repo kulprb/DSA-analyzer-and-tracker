@@ -27,7 +27,7 @@
 - _[Chakra UI]_ - **Component Library**
 
 ## Deployed Website 🌎
-https://a2zdsa.pages.dev/
+https://dsa-analyzer-and-tracker.vercel.app/
 - Take a look at the Existing [Issues](https://github.com/aditya-190/a2zdsa/issues) or create your
   own Issues!
 - Wait for the Issue to be assigned to you after which you can start working on it.
