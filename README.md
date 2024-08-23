@@ -51,14 +51,14 @@ https://dsa-analyzer-and-tracker.vercel.app/
 </p>
 <h2 align="center">VISHNU PATEL</h2>
 <p align="center">
-  <a href="https://github.com/kulprb"><img src="https://media.licdn.com/dms/image/D4D03AQHZ84HmU45oDg/profile-displayphoto-shrink_200_200/0/1686720950291?e=2147483647&v=beta&t=kobdcW4fMsIUBbNMb5-i61ZUvhBQFdC0HHgshT_vjlA" width=150px height=150px  alt="Aditya Bhardwaj"/></a> 
+  <a href="https://github.com/kulprb"><img src="https://media.licdn.com/dms/image/D4D03AQHZ84HmU45oDg/profile-displayphoto-shrink_200_200/0/1686720950291?e=2147483647&v=beta&t=kobdcW4fMsIUBbNMb5-i61ZUvhBQFdC0HHgshT_vjlA" width=150px height=150px  alt="vishnu patel"/></a> 
 
 <p align="center">
   <a target="_blank" href=" https://www.linkedin.com/in/vishnu-patel-535961205?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app"><img src="https://media.licdn.com/dms/image/D5603AQEQ11B4MSAm6Q/profile-displayphoto-shrink_100_100/0/1683020533177?e=1718841600&v=beta&t=MNPI8ITi9XXjcHMhvRurP1jqpPtDRg1WVncObHYdHhM alt="prabal jain"/></a>&nbsp;&nbsp;&nbsp;
   <a href="mailto:10prabal@gmail.com?subject=Hello%20Aditya,%20From%20Github"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white"  alt="Prabal jain"/></a>
 </p><h2 align="center">arnav seth</h2>
 <p align="center">
-  <a href="https://github.com/kulprb"><img src="https://media.licdn.com/dms/image/D5603AQGo6Tr_d3pQzw/profile-displayphoto-shrink_200_200/0/1714107345036?e=1719446400&v=beta&t=y08SiabHsNV5i3wq_1if_y-MA-bc2fvr3p6jt2xRZlM" width=150px height=150px  alt="Aditya Bhardwaj"/></a> 
+  <a href="https://github.com/kulprb"><img src="https://media.licdn.com/dms/image/D5603AQGo6Tr_d3pQzw/profile-displayphoto-shrink_200_200/0/1714107345036?e=1719446400&v=beta&t=y08SiabHsNV5i3wq_1if_y-MA-bc2fvr3p6jt2xRZlM" width=150px height=150px  alt="arnav seth"/></a> 
 
 <p align="center">
   <a target="_blank" href="https://www.linkedin.com/feed/?doFeedRefresh=true&nis=true&lipi=urn%3Ali%3Apage%3Ad_flagship3_feed%3BF%2BvvcwmLTdOP92jgNtRPRw%3D%3D"><img src="https://media.licdn.com/dms/image/D5603AQEQ11B4MSAm6Q/profile-displayphoto-shrink_100_100/0/1683020533177?e=1718841600&v=beta&t=MNPI8ITi9XXjcHMhvRurP1jqpPtDRg1WVncObHYdHhM alt="prabal jain"/></a>&nbsp;&nbsp;&nbsp;
