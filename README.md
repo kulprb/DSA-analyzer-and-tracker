@@ -41,7 +41,7 @@ https://dsa-analyzer-and-tracker.vercel.app/
 
 ## Developed By 👦
 
-<h2 align="center">PRABAL JAIN</h2>
+<h2 align="center">ANKUSH KUMAR</h2>
 
 
 <p align="center">
